@@ -16,7 +16,7 @@ No Answer Needed
 
 - #### Offensive Security
 
-![](https://github.com/faizH3/tryhackme/blob/main/complete%20beginner/introduction/img/ninja.png)
+![](img/ninja.png)
 
 The first large area within Cyber Security is the offensive side. This area involves attacking different applications and technologies to discover vulnerabilities.
 
