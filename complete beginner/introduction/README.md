@@ -37,9 +37,9 @@
 
     What is the name of the career role that is legally employed to find vulnerabilities in applications?
 
-```
-penetration tester
-```
+	```
+	penetration tester
+	```
 - #### Defensive Security
   <img src="img/shield.png" width="150"/>
   
@@ -65,9 +65,9 @@ penetration tester
     We also have a Cyber Defence pathway that covers a broad set of skills, tools and methodologies that would allow you to understand the fundamentals required for entry level Blue Team roles.
 
     What is the name of the role who's job is to identify attacks against an organisation?
-    ```
-    security analyst
-    ```
+	```
+	security analyst
+	```
 
 ### Introductory Researching
   
