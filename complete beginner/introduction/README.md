@@ -7,7 +7,7 @@ This room will give you a brief overview on the different career paths in Cyber 
 
 If you already have a basic idea on the different career tracks in the Industry, search the Hacktivities page for different walkthroughs and challenges. If you want some more structured learning, check out our learning paths.
 
-Answer the questio below
+Answer the question below
 
 Read Me and Processed!
 ```
