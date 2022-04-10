@@ -1,6 +1,8 @@
 ### Starting Out In Cyber Sec
 - #### Welcome to TryHackMe
 
+/documentclass[a4]{tutorial/TryHackMe_Tutorial}
+
 Welcome To TryHackMe! 
 
 This room will give you a brief overview on the different career paths in Cyber Security. 
