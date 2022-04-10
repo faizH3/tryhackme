@@ -1,7 +1,7 @@
 ### Starting Out In Cyber Sec
 - #### Welcome to TryHackMe
 
-/documentclass[a4]{tutorial/TryHackMe_Tutorial}
+/tutorial[a4]{TryHackMe_Tutorial}
 
 Welcome To TryHackMe! 
 
