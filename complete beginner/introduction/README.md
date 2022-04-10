@@ -40,7 +40,7 @@
 ```
 penetration tester
 ```
-- #### Devensife Security
+- #### Defensive Security
   <img src="img/shield.png" width="150"/>
   
     This is the second major area within Security. While Offensive Security involves actively finding vulnerabilities and misconfigurations within technologies, Defensive Security involves detecting and stopping these attacks.
