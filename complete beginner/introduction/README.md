@@ -1,4 +1,8 @@
+
+----
 ### Starting Out In Cyber Sec
+----
+
 - #### Welcome to TryHackMe
 
     Welcome To TryHackMe! 
@@ -69,6 +73,7 @@
 	security analyst
 	```
 
+---
 ### Introductory Researching
-  
+---
     
